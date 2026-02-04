@@ -79,7 +79,7 @@ src/
 Clone Repositori
 
 Bash
-git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)
+git clone [https://github.com/Novuaru/Aplikasi-Kuis-Frontend-React.js.git]
 Instal Dependensi
 
 Bash
